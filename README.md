@@ -96,19 +96,6 @@ The data is deleted and cannot be recovered.
 4. Server sends response back to client
 
 ---
-
-## 📌 Importance of CRUD Operations
-
-- Foundation of database management
-- Used in all web applications
-- Enables data creation and management
-- Ensures proper data handling
-
----
-
-## 📄 Conclusion
-
-CRUD operations are the backbone of any application that interacts with a database.  
 ---
 
 Understanding CRUD is essential for building reliable and scalable web applications.
