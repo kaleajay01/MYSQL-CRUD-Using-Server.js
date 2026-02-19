@@ -97,7 +97,3 @@ The data is deleted and cannot be recovered.
 
 ---
 ---
-
-Understanding CRUD is essential for building reliable and scalable web applications.
-
----
