@@ -87,13 +87,5 @@ The **Delete** operation is used to **remove data** from the database.
 The data is deleted and cannot be recovered.
 
 ---
-
-## 🔄 CRUD Operation Flow
-
-1. Client sends request
-2. Server processes request
-3. Database performs operation
-4. Server sends response back to client
-
 ---
 ---
