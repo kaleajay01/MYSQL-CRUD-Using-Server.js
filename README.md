@@ -87,5 +87,4 @@ The **Delete** operation is used to **remove data** from the database.
 The data is deleted and cannot be recovered.
 
 ---
----
----
+
