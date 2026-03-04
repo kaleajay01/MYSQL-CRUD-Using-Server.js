@@ -27,12 +27,6 @@ The **Create** operation is used to **add new data** to the database.
 - The server validates the data.
 - A new record is saved in the database.
 
-### Example:
-Creating a new user with name, email, and age.
-
-### Result:
-A new record is stored in the database.
-
 ---
 
 
